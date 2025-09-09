@@ -24,4 +24,4 @@ This repository contains examples and exercises for learning **data visualizatio
 ## 🚀 Getting Started  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/YourUsername/your-repo-name.git
+   git clone  https://github.com/hgh2000a/Data-visualization-with-python
